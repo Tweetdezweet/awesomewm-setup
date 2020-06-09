@@ -14,6 +14,9 @@
 
 # TODO
 
+## Sources
+https://github.com/atsepkov/awesome-awesome-wm
+
 ## Known issues
 - Cursors becomes very large when it's over a program, normal size when on desktop
 
