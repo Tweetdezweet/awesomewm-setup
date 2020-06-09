@@ -15,7 +15,9 @@
 # TODO
 
 ## Sources
-https://github.com/atsepkov/awesome-awesome-wm
+- https://github.com/atsepkov/awesome-awesome-wm
+
+- https://wiki.archlinux.org/index.php/Cursor_themes
 
 ## Known issues
 - Cursors becomes very large when it's over a program, normal size when on desktop
