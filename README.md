@@ -8,6 +8,7 @@
 
 ## Programs
 - arandr
+- Chromium
 
 ## Widgets
 -
@@ -43,4 +44,3 @@
 ## Programs
 - PHPStorm
 - Station
-- Chromium
