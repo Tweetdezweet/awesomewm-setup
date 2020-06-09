@@ -9,6 +9,7 @@
 ## Programs
 - arandr
 - Chromium
+- Station
 
 ## Widgets
 -
@@ -43,4 +44,4 @@
 - resources (CPU/RAM)
 ## Programs
 - PHPStorm
-- Station
+- screensaver
