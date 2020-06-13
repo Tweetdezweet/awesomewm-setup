@@ -10,6 +10,7 @@
 - arandr
 - Chromium
 - Station
+- pavucontrol (volume mixer panel)
 
 ## Widgets
 -
