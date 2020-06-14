@@ -1,6 +1,6 @@
 # Basic setup
 - Ubuntu 18.04
-- Nvidia proprietary driver
+- Nvidia proprietary driver (awesome runs on intel driver)
 - awesomewm
   - config location: /etc/xdg/awesome/rc.lua
 
@@ -11,9 +11,10 @@
 - Chromium
 - Station
 - pavucontrol (volume mixer panel)
+- git
 
 ## Widgets
--
+- nm-applet (came with ubuntu)
 
 # TODO
 
@@ -38,7 +39,7 @@
 - Cursors becomes very large when it's over a program, normal size when on desktop
 
 ## Widgets
-- network
+- network -> nm-applet needs to be started automatically
 - bluetooth
 - volume
 - battery
